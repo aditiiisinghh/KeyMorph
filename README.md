@@ -1,5 +1,9 @@
 # KeyMorph 🔑✨
 
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
 KeyMorph is a modern and responsive frontend project built to demonstrate clean UI design, smooth interactions, and strong frontend fundamentals.  
 The project focuses on usability, responsiveness, and scalable structure..
 
