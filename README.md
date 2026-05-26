@@ -26,7 +26,6 @@ The project focuses on usability, responsiveness, and scalable structure..
 - HTML5
 - CSS3
 - JavaScript
-- Framer (for design & interactions)
 
 ---
 
@@ -39,6 +38,29 @@ KeyMorph is optimized for:
 - Large displays
 
 ---
+## 🧠 Concepts Used
 
+- DOM Manipulation
+- Event Handling
+- Fisher-Yates Shuffle Algorithm
+- Responsive Design
+- Clipboard API
+- Random Password Generation Logic
+  
 ## 📂 Project Structure
 
+KeyMorph/
+│── assets/
+│── index.html
+│── styles.css
+│── script.js
+│── README.md
+
+
+## 🔮 Future Improvements
+
+- Dark/Light mode
+- Password history
+- Save generated passwords
+- Strength analytics
+- Backend integration
