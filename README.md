@@ -46,16 +46,17 @@ KeyMorph is optimized for:
 - Responsive Design
 - Clipboard API
 - Random Password Generation Logic
-  
-## 📂 Project Structure
 
+## 📁 Project Structure
+
+```bash
 KeyMorph/
 │── assets/
 │── index.html
 │── styles.css
 │── script.js
 │── README.md
-
+```
 
 ## 🔮 Future Improvements
 
