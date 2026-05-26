@@ -7,13 +7,18 @@ The project focuses on usability, responsiveness, and scalable structure..
 
 ## 🚀 Features
 
-- Fully responsive design (Mobile, Tablet, Desktop)
-- Clean and minimal UI
-- Smooth animations and transitions
-- Well-structured and readable code
-- SEO-friendly layout
-- Cross-browser compatibility
-
+- Generate strong random passwords
+- Password strength indicator
+- Copy password to clipboard
+- Adjustable password length
+- Include/exclude:
+  - Uppercase letters
+  - Lowercase letters
+  - Numbers
+  - Symbols
+- Fisher-Yates shuffle for randomness
+- Fully responsive UI
+  
 ---
 
 ## 🛠️ Tech Stack
