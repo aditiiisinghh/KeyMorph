@@ -21,7 +21,7 @@ The project focuses on usability, responsiveness, and scalable structure..
   - Numbers
   - Symbols
 - Fisher-Yates shuffle for randomness
-- Fully responsive UI
+  
   
 ---
 
